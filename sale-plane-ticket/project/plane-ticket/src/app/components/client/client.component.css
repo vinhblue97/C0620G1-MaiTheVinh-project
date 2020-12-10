@@ -32,7 +32,7 @@
   width: 350px;
   display: none;
   position: fixed;
-  bottom: 10px;
+  bottom: 0px;
   right: 10px;
   border: 1px solid #ffffff;
   border-radius: 20px;
@@ -40,7 +40,7 @@
 }
 
 
-form textarea {
+textarea {
   width: 100%;
   font-size: 18px;
   padding: 15px;
@@ -100,14 +100,16 @@ div .content-mess {
 
 
 div.row-option {
-  border-top: blue solid 2px;
+  border-top: rgba(50, 52, 54, 0.73) solid 2px;
   bottom: 0px;
   position: fixed;
   width: 346px;
+  border-radius: 20px;
 }
 
 div #input-inline {
   margin-left: 0px;
+  background-color: white;
 }
 
 .icon-option {
@@ -115,7 +117,11 @@ div #input-inline {
 }
 
 #btn-submit-mess {
-  background-color: white;
+  background-color: unset;
+  border: none;
+}
+
+#btn-submit-mess {
   border: none;
 }
 
@@ -148,23 +154,4 @@ div #file-space{
   z-index: 100;
 }
 
-#chat-btn-test {
-  width: 40px;
-  height: 28px;
-  background-color: #62cfc1;
-  border-radius: 4px;
-  position: relative;
-}
 
-#chat-btn-test:after {
-  content: "";
-  display: block;
-  position: absolute;
-  width: 0;
-  height: 0;
-  right: 10px;
-  bottom: -10px;
-  border-left: 10px solid transparent;
-  border-right: 2px solid transparent;
-  border-top: 10px solid #62CFC1;
-}

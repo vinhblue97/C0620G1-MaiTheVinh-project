@@ -53,5 +53,6 @@ export class ClientComponent implements OnInit {
 
   sendMessage() {
     console.log(this.formSend.value);
+    $("#content-mess").val("");
   }
 }
