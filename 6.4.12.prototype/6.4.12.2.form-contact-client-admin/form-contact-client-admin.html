@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form contact client to admin</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+          integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+          crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+          integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw=="
+          crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+            integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+</head>
+</head>
+<body onload="reg();">
+<div class="container-fluid mt-lg-5">
+    <div class="row">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-8">
+            <h1>Customer feedback</h1>
+            <form>
+                <div class="form-row">
+                    <div class="form-group col-lg-6">
+                        <label>Tên<span style="color: red">*</span></label>
+                        <input type="text" class="form-control" placeholder="Họ và tên" required>
+                    </div>
+                    <div class="form-group col-lg-6">
+                        <label>Email<span style="color: red">*</span></label>
+                        <input type="email" class="form-control" placeholder="Email" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <p><b style="font-size: 30px">Quý khách muốn gửi phản hồi về mục nào?</b></p>
+                    <div class="form-check">
+                        <label style="font-size: 20px"><input type="radio" value="checkin" checked name="department">
+                            Check
+                            in</label>
+                    </div>
+                    <div class="form-check">
+                        <label style="font-size: 20px"><input type="radio" value="sale" name="department"> Bán
+                            vé</label>
+                    </div>
+                    <div class="form-check">
+                        <label style="font-size: 20px"><input type="radio" value="support" name="department"> Chăm sóc
+                            khách hàng</label>
+                    </div>
+                    <div class="form-check">
+                        <label style="font-size: 20px"><input type="radio" value="other" name="department"> Khác</label>
+                    </div>
+                </div>
+                <div class="form-group col-lg-12">
+                    <label>Chủ đề<span style="color: red">*</span></label>
+                    <input type="text" class="form-control">
+                </div>
+                <div class="form-group col-lg-12">
+                    <label>Nội dung<span style="color: red">*</span></label>
+                    <textarea class="form-control" placeholder="Nội dung"></textarea>
+                </div>
+                <div align="center">
+                    <button class="btn btn-warning" style="color: white">Gửi phản hồi</button>
+                </div>
+            </form>
+        </div>
+        <div class="col-lg-2"></div>
+    </div>
+</div>
+</body>
+</html>
+

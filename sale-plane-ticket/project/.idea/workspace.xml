@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffc94897-4ad5-468f-8a89-bc8a4ab2911b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.blackbox_TC/6.4.12 blackbox_tc.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/.idea/prototype.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/6.4.12.1.chat-online/chat-online-admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/6.4.12.1.chat-online/chat-online-client.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/6.4.12.1.chat-online/chat-online-client.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/6.4.12.2.form-contact-client-admin/form-contact-client-admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/6.4.12.2.form-contact-client-admin/form-contact-client-admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/6.4.12.prototype.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/test/chat-online/test-chat-online-client.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.4.12.prototype/test/chat-online/test-chat-online-client.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGym-C0620G1_MaiTheVinh.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eforlad/eforlad/.idea/eforlad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eforlad/eforlad/chat-online.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eforlad/eforlad/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../required/required-output.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/client/client.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/client/client.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/client/client.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/consultant/consultant.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/consultant/consultant.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/consultant/consultant.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/feed-back/feed-back.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/feed-back/feed-back.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/feed-back/feed-back.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/home-page/home-page.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/home-page/home-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/home-page/home-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/page-not-found/page-not-found.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/page-not-found/page-not-found.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/components/page-not-found/page-not-found.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/model/jsonDatabase/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane-ticket/src/app/model/service/IClient.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../about project/CG-DN Project Plan details v0.7.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../about project/CG-DN Project Plan details v0.7.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../about project/Quan ly phong ban ve may bay_SRS_v1.1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../about project/Quan ly phong ban ve may bay_SRS_v1.1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale-plane-ticket/tslint.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1l35aIW7oUW9oO44McD5NuBYXma" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../C0620G1-M5-MaiTheVinh/final-exam" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="ts.external.directory.path" value="D:\C0620G1-MaiTheVinh-project\sale-plane-ticket\project\plane-ticket\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\C0620G1-MaiTheVinh-project\sale-plane-ticket\project\plane-ticket\src\app\components\consultant" />
+      <recent name="D:\C0620G1-MaiTheVinh-project\sale-plane-ticket\project\plane-ticket\node_modules" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffc94897-4ad5-468f-8a89-bc8a4ab2911b" name="Default Changelist" comment="" />
+      <created>1606812995906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606812995906</updated>
+      <workItem from="1606812997335" duration="4749000" />
+      <workItem from="1606887609412" duration="2307000" />
+      <workItem from="1606897655132" duration="25000" />
+      <workItem from="1607050604891" duration="213000" />
+      <workItem from="1607392267122" duration="1882000" />
+      <workItem from="1607398195344" duration="4080000" />
+      <workItem from="1607414933222" duration="4153000" />
+      <workItem from="1607478432117" duration="5861000" />
+      <workItem from="1607514040746" duration="1432000" />
+      <workItem from="1607532901436" duration="353000" />
+      <workItem from="1607562469250" duration="4268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/plane-ticket/src/app/components/consultant/consultant.component.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="108" key="#Inspections" timestamp="1607399885408">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="426" y="108" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1607399885408" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1607566356074">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1607566356074" />
+  </component>
+</project>

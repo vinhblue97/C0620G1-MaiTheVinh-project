@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Chat online admin</title>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+          integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+          crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+          integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw=="
+          crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="chat-online-client.css" type="text/css" rel="stylesheet"/>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+            integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<i class="openChatBtn fab fa-facebook-messenger"
+   style="color: blue; font-size: 60px  "></i>
+
+<div class="requiredChat container-fluid">
+    <div class="row">
+        <div class="col-lg-12" style="background-color: aqua; height: 80px">
+            <button class="close">X</button>
+            <span style="font-weight: bold">Chat ngay(Hot line: 0334611971)<br>
+               Nhập tên, email, SĐT để bắt đầu nói chuyện với tư vấn viên</span>
+        </div>
+    </div>
+    <div class="row mt-5">
+        <div class="col-lg-12 mb-1" style="height: 300px">
+            <div align="center">
+                <input id="content-name" class="form-control mt-3" type="text" placeholder="*Tên" required>
+                <input id="content-email" class="form-control mt-3" type="email" placeholder="*Email" required>
+                <input id="content-phone" class="form-control mt-3" type="text" placeholder="*Số điện thoại"
+                       required><br>
+                <button class="btn btn-primary form-control begin-chat">Bắt đầu trò chuyện</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="openChat container-fluid">
+    <div class="row">
+        <div class="col-lg-12" style="background-color: aqua; height: 80px">
+            <button class="close">X</button>
+            <span style="font-weight: bold">Chat ngay(Hot line: 0334611971)<br>Chúng tôi sẵn sàng phục vụ!</span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12" style="height: 300px">
+            <div class="row" style="overflow-y: scroll">
+                <div class="col-lg-12"></div>
+            </div>
+            <div class="row" style="border-top: #727b76 solid 2px; bottom: 0px; position: fixed; width: 346px">
+                <form class="form-inline">
+                    <div class="input-group" style="margin-left: 0px">
+                        <input id="content-mess" class="form-control" type="text" placeholder="Type message ..."
+                               style="width: 184px">
+                        <span class="input-group-btn ml-1 mt-1"><i style="font-size: 25px"
+                                                                   class="fas fa-paperclip"></i></span>
+                        <span class="input-group-btn ml-1 mt-1"><i style="font-size: 25px"
+                                                                   class="fas fa-kiss-wink-heart"></i></span>
+                        <span class="input-group-btn ml-1 mt-1">
+                            <button type="submit" style="background-color: white; border: none">
+                            <i style="font-size: 25px" class="fas fa-paper-plane"></i>
+                        </button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div style="height: 2000px"></div>
+<script>
+    $(document).ready(function () {
+        $(".openChatBtn").click(function () {
+            $(".requiredChat").show();
+            $(".openChatBtn").hide();
+        })
+        $(".close").click(function () {
+            $(".openChat").hide();
+            $(".requiredChat").hide();
+            $(".openChatBtn").show();
+        })
+        $(".begin-chat").click(function () {
+            $(".openChat").hide();
+            $(".requiredChat").hide();
+            $(".openChat").show();
+        })
+    })
+</script>
+</body>
+</html>
+
+
+

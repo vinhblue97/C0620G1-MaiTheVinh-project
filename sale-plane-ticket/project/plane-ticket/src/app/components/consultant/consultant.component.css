@@ -1,0 +1,127 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.openChatBtn {
+  float: left;
+  border: none;
+  cursor: pointer;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 10vh;
+
+}
+
+.requiredChat {
+  overflow: auto;
+  height: 400px;
+  width: 350px;
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  border: 1px solid blue;
+  z-index: 9;
+}
+
+.openChat {
+  height: 400px;
+  width: 350px;
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  border: 1px solid blue;
+  z-index: 9;
+}
+
+
+form textarea {
+  width: 100%;
+  font-size: 18px;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  font-weight: 500;
+  background: #d5e7ff;
+  color: rgb(0, 0, 0);
+  resize: none;
+  min-height: 200px;
+}
+
+form textarea:focus {
+  background-color: rgb(219, 255, 252);
+  outline: none;
+}
+
+form .btn {
+  background-color: rgb(34, 197, 107);
+  color: white;
+  padding: 16px 20px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 10px;
+  opacity: 0.8;
+}
+
+form .close {
+  background-color: red;
+}
+
+form .btn:hover, .openChatBtn:hover {
+  opacity: 1;
+}
+
+#content-mess {
+  width: 248px;
+  border: none;
+}
+
+#content-mess:focus {
+  border: none;
+}
+
+div .content-mess {
+  overflow-y: scroll;
+  overflow-x: auto;
+}
+
+
+div.row-option {
+  border-top: blue solid 2px;
+  bottom: 0px;
+  position: fixed;
+  width: 346px;
+}
+
+div #input-inline {
+  margin-left: 0px;
+}
+
+.icon-option {
+  font-size: 25px;
+}
+
+#btn-submit-mess {
+  background-color: white;
+  border: none;
+}
+
+div .header-openChat {
+  background-color: aqua;
+  height: 80px;
+  border: rgba(45, 58, 68, 0) solid 1px;
+}
+
+div .content-box {
+  height: 300px;
+}
+
+#icon-message {
+  color: blue;
+  font-size: 60px;
+}
